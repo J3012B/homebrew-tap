@@ -7,7 +7,7 @@ cask "transcribe" do
   desc "Free, local, on-device audio and video transcription for Mac"
   homepage "https://transcribe.heliconsolutions.net/"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
   depends_on arch: :arm64
 
   app "Transcribe.app"
