@@ -1,6 +1,6 @@
 cask "transcribe" do
-  version "1.1.4"
-  sha256 "f4a8482d3dea0d50b99b5814c41958d3fcdd1a9cfb67f3e6dfc770a6972a1e06"
+  version "1.1.5"
+  sha256 "60f3c94090c6757dfda11d463d8e0664d0df261c4eaf82d2201e906e22b293bd"
 
   url "https://github.com/J3012B/Transcribe_Mac/releases/download/v#{version}/Transcribe-#{version}.dmg"
   name "Transcribe"
