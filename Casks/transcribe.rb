@@ -1,8 +1,8 @@
 cask "transcribe" do
-  version "1.0.0"
-  sha256 "f31841b3d94be96a68fb05ac3bd2ca366c483eb90a50498373b5214565bc58ac"
+  version "1.1.4"
+  sha256 "f4a8482d3dea0d50b99b5814c41958d3fcdd1a9cfb67f3e6dfc770a6972a1e06"
 
-  url "https://github.com/J3012B/Transcribe_Mac/releases/download/v#{version}/Transcribe.zip"
+  url "https://github.com/J3012B/Transcribe_Mac/releases/download/v#{version}/Transcribe-#{version}.dmg"
   name "Transcribe"
   desc "Free, local, on-device audio and video transcription for Mac"
   homepage "https://transcribe.heliconsolutions.net/"
